@@ -1,4 +1,4 @@
 var a =10;
-var myfunc=()=>{
-console.log("Hello world");
+var myFunc=function(){
+  console.log("Hello World");
 };
